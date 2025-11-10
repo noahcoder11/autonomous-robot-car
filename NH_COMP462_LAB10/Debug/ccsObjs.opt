@@ -1,0 +1,12 @@
+"./HCSR04_test.obj"
+"./i_trig.obj"
+"./main.obj"
+"./motor_test.obj"
+"./tiva_launchpad_lib.obj"
+"./tm4c123gh6pm_startup_ccs.obj"
+"./uartstdio.obj"
+"./device_drivers/HCSR04_driver.obj"
+"./device_drivers/LSM303_driver.obj"
+"../tm4c123gh6pm.cmd"
+-llibc.a
+-l"/Users/noah/ti/TivaWare_C_Series-2.2.0.295/driverlib/ccs/Debug/driverlib.lib"
